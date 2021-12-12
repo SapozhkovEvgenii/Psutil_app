@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+resault.txt
+HW_Psutil.py
+.idea
+Psutil_app/
